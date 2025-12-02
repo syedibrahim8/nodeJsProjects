@@ -1,7 +1,7 @@
 import readline from "readline-sync";
 import axios from "axios";
-import figlet from "figlet"
-import chalk from "chalk"
+import figlet from "figlet";
+import chalk from "chalk";
 import dotenv from "dotenv";
 dotenv.config();
 
