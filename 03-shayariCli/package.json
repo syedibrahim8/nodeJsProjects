@@ -1,0 +1,21 @@
+{
+  "name": "03-shayariCli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "ibrahim",
+  "license": "ISC",
+  "packageManager": "pnpm@10.24.0",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "chalk": "^5.6.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "figlet": "^1.9.4"
+  }
+}
